@@ -90,11 +90,17 @@ Task 5: Cybercrime Awareness
         Included reporting methods for cybercrime
         
 #### Tools \& Platforms Used
+
 Canva (Infographic Design)
+
 GitHub (Project Hosting)
+
 LinkedIn (Professional Networking)
+
 Kaggle (Data Science Practice)
+
 HackerRank (Coding Practice)
+
 Google Forms \& Sheets (Collaboration Tools)
 
 
