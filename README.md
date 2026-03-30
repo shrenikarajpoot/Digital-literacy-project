@@ -24,11 +24,17 @@ This project is based on the role of Student Digital Ambassador, aimed at spread
 
 ### &#x20; digital-literacy-project/
 |----README.md
+
 |----Project_Report.pdf
+
 |----Task-1-Presentation/
+
 |----Task-2-Portfolio/
+
 |----Task-3-Platforms/
+
 |----Task-4-email-etiquette/
+
 |----Task-5-cybercrime/
 
 
