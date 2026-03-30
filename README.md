@@ -65,7 +65,7 @@ Task 3: Coding \& Collaboration Platforms
 
 Linked responses to Google Sheets
 
-Take the Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfuVGE4tDw35TlrzMI0RaCDTmHMD6Ip7QSGrZ\_gxEfcO4l6vQ/viewform?usp=publish-editor
+Take the Quiz: https://forms.gle/XS2AUvfAKsTDVrsN6
 
 
 
